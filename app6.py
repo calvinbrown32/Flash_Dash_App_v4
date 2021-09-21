@@ -360,6 +360,11 @@ def render_contact():
     """contact.html"""
     return render_template('contact.html', author = 'Calvin')
 
+@server.route('/311')
+def render_311():
+    """311.html"""
+    return render_template('311.html', author = 'Calvin')
+
 if __name__ == '__main__':
     server.run(debug=True)
 
