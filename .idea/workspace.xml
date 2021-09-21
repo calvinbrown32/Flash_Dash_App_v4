@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2f972935-70d7-4ae8-b156-7b3a89fcaba6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app6.py" beforeDir="false" afterPath="$PROJECT_DIR$/app6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/311.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/311.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python3.7" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Flash_Dash_App_v4/venv/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -83,6 +83,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.app6" />
+      <item itemvalue="Python.upload_cleanup" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app6" />
